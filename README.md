@@ -3,7 +3,7 @@ Ipsum-Image
 
 pure javascript placeholder for images in local projects
 
-just include Ipsum-Image.js to your projects and everything will be done
+just include Ipsum-Image.js in your projects and everything will be done
 
 [demo here](http://lenville.github.io/Ipsum-Image)
 
