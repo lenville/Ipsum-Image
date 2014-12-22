@@ -51,7 +51,6 @@
         case 1:
           var color = getRandomColor(type);
 
-          console.log(color)
           ctx.fillStyle = color[0];
           ctx.fillRect(0, 0, width, height);
 
