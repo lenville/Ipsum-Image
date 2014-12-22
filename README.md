@@ -3,6 +3,8 @@ Ipsum-Image
 
 pure javascript placeholder for images in local projects
 
+[demo here](http://lenville.github.io/Ipsum-Image)
+
 There are two types of placeholder for now
 
 Type 0 generates a random color (default) for each pic and text
